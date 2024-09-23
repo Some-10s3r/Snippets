@@ -1,0 +1,15 @@
+auto rename tag/
+better comments/
+codesnap/
+colorHighlight/
+custom CSS and JS loader/
+debugger for firefox/
+git History/
+Horizon Legacy/
+html Snippets/
+JS JSX Snipets/
+Js snippet/
+liveServer/
+material theme icons/
+rainbow Brackets/
+vscode-pdf
